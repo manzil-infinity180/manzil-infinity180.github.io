@@ -20,12 +20,12 @@
 
 title: Rahul Vishwakarma
 email: rahulvs2809@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello, I am Rahul vishwakarma currently an undergruadate computer science student and gsoc contributor at Submitty
+description:  # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: manzil_rahul
 github_username:  manzil-infinity180
+linkedin_username: rahul-vishwakrma
 
 # Build settings
 theme: minima
