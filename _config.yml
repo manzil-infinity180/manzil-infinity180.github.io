@@ -31,6 +31,7 @@ linkedin_username: rahul-vishwakarma-553874256
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-shields_io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
